@@ -87,7 +87,7 @@ The Course Evaluation Dashboard is a web application designed to provide UTRGV s
 ---
 
 ## Contributors
-- [John Ross] - 
+- [John Ross]
 - [Daniel Gutierrez]
 - [Joe Reyna]
 - [Esteban Kott]
