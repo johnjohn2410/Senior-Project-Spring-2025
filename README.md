@@ -1,6 +1,5 @@
 # Senior-Project-Spring-2025
-This is to showcase our final project for our Computer Science degree. Faculty Advisor Pengfei Gu. pengfei.gu01@utrgv.edu
-
+This is to showcase our final project for our Computer Science degree.
 ## **Course Evaluation Dashboard Project** ##
 
 ## Overview
