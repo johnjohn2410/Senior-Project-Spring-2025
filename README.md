@@ -96,4 +96,5 @@ The Course Evaluation Dashboard is a web application designed to provide UTRGV s
 
 ## Contact
 For questions or suggestions, please contact daniel.gutierreziii01@utrgv.edu, john.ross01@utrgv.edu, Esteban.kott01@utrgv.edu, joe.reyna02@utrgv.edu
+Faculty Advisor Pengfei Gu. pengfei.gu01@utrgv.edu
 
