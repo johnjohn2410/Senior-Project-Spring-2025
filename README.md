@@ -1,5 +1,5 @@
 # Senior-Project-Spring-2025
-This is to showcase our final project for our Computer Science degree.
+This is to showcase our final project for our Computer Science degree. Project will be changing
 ## **Course Evaluation Dashboard Project** ##
 
 ## Overview
